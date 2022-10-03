@@ -56,16 +56,14 @@ Perguntas/Dúvidas frequentes SAP/MAPA
 .. raw:: html
 
    </div>
-   <h3>Sobre</h3>
+   <h3>Dúvidas sobre Cadastramento e Recadastramento</h3>
    <div>
    
 .. toctree::
    :maxdepth: 1
-   :caption: Sobre
+   :caption: Dúvidas sobre Cadastramento e Recadastramento
 
-   _perguntasdafaq/sobreosisrgp40
-   _perguntasdafaq/sobreosisrgp40
-   _perguntasdafaq/sobreosisrgp40
+   _perguntasdafaq/cadastroquempodesecadastrarcomopescadorprofissional
 
 .. raw:: html
 
