@@ -32,9 +32,11 @@ Perguntas/Dúvidas frequentes SAP/MAPA
 
 .. toctree::
    :maxdepth: 1
-   :caption: Recuperação de Acesso à Conta
+   :caption: SOBRE O SisRGP 4.0
    
    _perguntasdafaq/sobreosisrgp40
+   _perguntasdafaq/horarios
+   _perguntasdafaq/temaplicativo
    
 .. raw:: html
 
