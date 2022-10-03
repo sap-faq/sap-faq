@@ -3,18 +3,23 @@ name: CI
 on:
   push:
     branches:    
-      - master
+      - main
 
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
 
     steps:
-    - uses: actions/checkout@v1
+    - name: Checkout
+      uses: actions/checkout@master
+      with:
+        fetch-depth: 0
     # Standard drop-in approach that should work for most people.
     - uses: ammaraskar/sphinx-action@master
       with:
+        pre-build-command: python -m pip install -r requirements.txt
+        build-command: "sphinx-build -b html / _build"
         docs-folder: "_perguntasdafaq/"
     # Publish built docs to gh-pages branch.
     # ===============================
