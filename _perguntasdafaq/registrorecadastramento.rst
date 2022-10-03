@@ -4,9 +4,10 @@ Todos os pescadores e pescadoras com RGP (carteira de pesca), em situação defe
  
 Pescador e pescadora profissional, em caso de dúvidas, acesse o manual de recadastramento e o Vídeo contendo o passo a passo para seu recadastramento, através do link: 
 
-a) Vídeo com o passo a passo para realizar o Recadastramento de Pescador
+a) `Vídeo com o passo a passo para realizar o Recadastramento de Pescador`_
 
-b) Manual de recadastramento de pescador profissional
+b) `Manual de recadastramento de pescador profissional`_
  
 **Prazo: 1º/10/2021 a 30/09/2023**
-
+.. _`Vídeo com o passo a passo para realizar o Recadastramento de Pescador`: https://www.youtube.com/watch?v=9M3-jt6Q-cs&list=PLb0wnTWW2ZNoFunulB7L2mBeWoTfi9gi1&index=5
+.. _`Manual de recadastramento de pescador profissional`: https://www.gov.br/agricultura/pt-br/assuntos/aquicultura-e-pesca/registro-monitoramento-e-cadastro/cadastramento-e-recadastramento-de-pescador-profissional/02MANUALREGISTRODEPESCADORRECADASTRAMENTOPeriodoEleitoral.pdf
