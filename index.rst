@@ -37,7 +37,22 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/sobreosisrgp40
    _perguntasdafaq/horarios
    _perguntasdafaq/temaplicativo
+
    
+.. raw:: html
+
+   </div>
+   <h3>Tipos de Licenças de Pescador Profissional</h3>
+   <div>
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: Tipos de Licenças de Pescador Profissional
+
+   _perguntasdafaq/tiposregistros
+   _perguntasdafaq/registroinicial
+   _perguntasdafaq/registrorecadastramento
+
 .. raw:: html
 
    </div>
@@ -55,4 +70,3 @@ Perguntas/Dúvidas frequentes SAP/MAPA
 .. raw:: html
 
    </div>
-
