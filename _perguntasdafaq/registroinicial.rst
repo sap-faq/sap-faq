@@ -9,9 +9,12 @@ c) Pescadores e pescadoras profissionais munidos de Licença de Pescador e Pesca
  
 Pescador e pescadora profissional, em caso de dúvidas, acesse o manual de solicitação de registro de pescador inicial e o Vídeo contendo o passo a passo para registro inicial, através do link: 
 
-a) Vídeo Registro Pescdor Inicial;
+a) Vídeo `Registro Pescador Inicial`_;
 
-b) Manual de solicitação do Registro de Pescador Inicial;
+b) `Manual de solicitação do Registro de Pescador Inicial`_;
  
 **Prazo: Indeterminado (não tem prazo);**
 
+
+.. _`Registro Pescador Inicial`: https://www.youtube.com/watch?v=3mEGm9yt-fA&list=PLb0wnTWW2ZNoFunulB7L2mBeWoTfi9gi1&index=6
+.. _`Manual de solicitação do Registro de Pescador Inicial`: https://www.gov.br/agricultura/pt-br/assuntos/aquicultura-e-pesca/registro-monitoramento-e-cadastro/cadastramento-e-recadastramento-de-pescador-profissional/04MANUALREGISTRODEPESCADORINICIALPeriodoeleitoral.pdf
