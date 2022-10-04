@@ -10,6 +10,5 @@ c) Pescadores e pescadoras profissionais munidos de Licença na situação suspe
 
 Pescador e pescadora profissional, em caso de dúvidas acesse o manual de registro de pescador com protocolo, através do link:
 
-`- Manual Registro de Pescador com Protocolo`_
 
 .._`Manual Registro de Pescador com Protocolo`:https://www.gov.br/agricultura/pt-br/assuntos/aquicultura-e-pesca/registro-monitoramento-e-cadastro/cadastramento-e-recadastramento-de-pescador-profissional/05MANUALREGISTRODEPESCADORPROTOCOLOPeriodoeleitoral.pdf
