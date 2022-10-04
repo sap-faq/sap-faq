@@ -1,6 +1,7 @@
 Quem poderá solicitar o registro com protocolo de requerimento de licença inicial de pescador profissional?
 ========
 Os pescadores profissionais que possuem Protocolo  podem se cadastrar nas seguintes situações:
+
 a) Pessoas físicas que estejam munidas de protocolo de requerimento inicial de Licença de Pescador e Pescadora Profissional, devidamente regularizado;
 
 b) Pescadores e pescadoras profissionais munidos de Licença emitida na situação suspensa ou cancelada e com protocolo de requerimento inicial de Licença de Pescador e Pescadora Profissional, obedecidos os prazos de solicitação para novos requerimentos em vigor no ato da suspensão ou do cancelamento; e
