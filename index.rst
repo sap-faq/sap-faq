@@ -52,7 +52,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/tiposregistros
    _perguntasdafaq/registroinicial
    _perguntasdafaq/registrorecadastramento
-   _perguntasdafaq/Quempoderasolicitaroregistrocomprotocoloderequerimentodelicençainicialdepescadorprofissional
+   _perguntasdafaq/quempoderasolicitaroregistrocomprotocoloderequerimentodelicençainicialdepescadorprofissional
 
 .. raw:: html
 
