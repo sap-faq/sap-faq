@@ -71,6 +71,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/comofacoparaconsultarasituacaodaminhalicencadepescadoroupaescadorprofissionalnonovosistemasisrgp4.0
    _perguntasdafaq/sopascadorepossuooutroemprego,possoterumalicencadepescadorprofissional
    _perguntasdafaq/outrapessoapodesolicitarmeucadastramentoourecadastramento
+   _perguntasdafaq/outrapessoapodesolicitarmeucadastramentoourecadastramento
 
 .. raw:: html
 
