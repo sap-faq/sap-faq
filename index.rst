@@ -69,6 +69,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/comofacoparasolicitaraminhalicencadepescadoroupescadoraprofissional
    _perguntasdafaq/consigofazermeucadastroourecadastropelocelular
    _perguntasdafaq/comofacoparaconsultarasituacaodaminhalicencadepescadoroupaescadorprofissionalnonovosistemasisrgp4.0
+   _perguntasdafaq/sopascadorepossuooutroemprego,possoterumalicencadepescadorprofissional
 
 .. raw:: html
 
