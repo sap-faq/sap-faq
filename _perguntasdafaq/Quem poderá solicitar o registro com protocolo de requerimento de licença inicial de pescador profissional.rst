@@ -12,3 +12,7 @@ Pescador e pescadora profissional, em caso de dúvidas acesse o manual de regist
 
 
 .._`Manual Registro de Pescador com Protocolo`:https://www.gov.br/agricultura/pt-br/assuntos/aquicultura-e-pesca/registro-monitoramento-e-cadastro/cadastramento-e-recadastramento-de-pescador-profissional/05MANUALREGISTRODEPESCADORPROTOCOLOPeriodoeleitoral.pdf
+
+Prazo: 1º/11/2021 a 30/09/2023.
+
+Após a finalização do prazo previsto, os pescadores que não realizarem o cadastramento não poderão utilizar o protocolo para fins de comprovação de data de 1º registro.
