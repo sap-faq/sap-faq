@@ -66,6 +66,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    :caption: Dúvidas sobre Cadastramento e Recadastramento
 
    _perguntasdafaq/cadastroquempodesecadastrarcomopescadorprofissional
+   _perguntasdafaq/comofacoparasolicitaraminhalicencadepescadoroupescadoraprofissional
 
 .. raw:: html
 
