@@ -5,5 +5,5 @@ O cadastramento e o recadastramento no Registro Geral da Atividade Pesqueira - R
 .. _`clique aqui`: https://www.google.com.br/
 .. |link1| replace:: link
 .. |link2| replace:: link
-.. _|link1|: https://sistemasweb.agricultura.gov.br/sap-sisrgp/
-.. _|link2|: https://www.in.gov.br/en/web/dou/-/portaria-sap/mapa-n-265-de-29-de-junho-de-2021-329120345
+.. _link1: https://sistemasweb.agricultura.gov.br/sap-sisrgp/
+.. _link2: https://www.in.gov.br/en/web/dou/-/portaria-sap/mapa-n-265-de-29-de-junho-de-2021-329120345
