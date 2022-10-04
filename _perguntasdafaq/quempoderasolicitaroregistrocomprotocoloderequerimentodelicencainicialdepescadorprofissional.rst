@@ -10,7 +10,7 @@ c) Pescadores e pescadoras profissionais munidos de Licença na situação suspe
 
 Pescador e pescadora profissional, em caso de dúvidas acesse o manual de registro de pescador com protocolo, através do link:
 
-`Manual Registro de Pescador com Protocolo`_
+`Manual Registro de Pescador com Protocolo`_;
 
 Prazo: 1º/11/2021 a 30/09/2023.
 
