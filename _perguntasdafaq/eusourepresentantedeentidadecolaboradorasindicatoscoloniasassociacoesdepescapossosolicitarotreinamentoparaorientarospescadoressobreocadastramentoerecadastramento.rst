@@ -2,6 +2,7 @@ Eu sou representante de entidade colaboradora (Sindicatos/Colônias/Associaçõe
 ========
 
 SIM.
+
 Informamos que no modelo atual de capacitação nossa equipe disponibilizará um fórum online por meio de videoconferência, o qual terá como escopo o esclarecimento de dúvidas acerca dos seguintes tópicos:
 
 a) Portaria nº 265, de 29 de junho de 2021 `link`_;
