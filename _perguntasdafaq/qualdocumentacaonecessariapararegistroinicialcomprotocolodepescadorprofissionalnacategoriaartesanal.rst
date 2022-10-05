@@ -1,6 +1,7 @@
 Qual documentação necessária para registro inicial com protocolo de pescador profissional na categoria artesanal?
 =======
-Conforme disposto na Portaria SAP/MAPA nº 265, de 29 de junho de 2021 `link`_
+Conforme disposto na Portaria SAP/MAPA nº 265, de 29 de junho de 2021 `link`_:
+
 Quando se tratar de Licença de Pescador e Pescadora Profissional Artesanal para brasileiro nato ou naturalizado:
 
 a) foto 3x4 nítida e atual;
@@ -19,7 +20,14 @@ g) declaração de filiação, no caso de pescadores e pescadoras filiados a qua
 
 h) protocolo  de  requerimento  de  Licença  Inicial  de  Pescador  Profissional  (quando tratar-se de pescador com protocolo).
 
-Atenção! Serão considerados documentos oficiais de identificação: Carteira de Identidade, Carteira Nacional de Habilitação, Carteira de Trabalho e Previdência Social - CTPS, Carteira Profissional [ordem ou conselho de classe], Passaporte e Carteira de Registro Nacional Migratório – CRNM (para cidadãos estrangeiros). 
+Atenção! Serão considerados documentos oficiais de identificação: 
+
+- Carteira de Identidade, Carteira Nacional de Habilitação, Carteira de Trabalho e Previdência Social - CTPS;
+
+- Carteira Profissional [ordem ou conselho de classe];
+
+- Passaporte e Carteira de Registro Nacional Migratório – CRNM (para cidadãos estrangeiros).
+
 Para comprovação do CPF, pode ser apresentado o próprio cartão do documento ou um documento oficial de identificação que contenha o número do CPF.
 
 .. _ `link` : https://www.in.gov.br/en/web/dou/-/portaria-sap/mapa-n-265-de-29-de-junho-de-2021-329120345
