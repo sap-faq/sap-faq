@@ -97,4 +97,6 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    :maxdepth: 1
    :caption: DOCUMENTAÇÃO PARA SOLICITAÇÃO DE LICENÇA DE PESCADOR OU PESCADORA PROFISSIONAL.
    
+   _perguntasdafaq/qualdocumentacaonecessariapararegistroinicialdepescadorprofissionalnacategoriaartesanal
+   
    
