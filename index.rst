@@ -42,12 +42,12 @@ Perguntas/Dúvidas frequentes SAP/MAPA
 .. raw:: html
 
    </div>
-   <h3>Tipos de Licenças de Pescador Profissional</h3>
+   <h3>TIPOS DE LICENÇAS DE PESCADOR PROFISSIONAL</h3>
    <div>
    
 .. toctree::
    :maxdepth: 1
-   :caption: Tipos de Licenças de Pescador Profissional
+   :caption: TIPOS DE LICENÇAS DE PESCADOR PROFISSIONAL
 
    _perguntasdafaq/tiposregistros
    _perguntasdafaq/registroinicial
@@ -58,12 +58,12 @@ Perguntas/Dúvidas frequentes SAP/MAPA
 .. raw:: html
 
    </div>
-   <h3>Dúvidas sobre Cadastramento e Recadastramento</h3>
+   <h3>DÚVIDAS SOBRE CADASTRAMENTO E RECADASTRAMENTO</h3>
    <div>
    
 .. toctree::
    :maxdepth: 1
-   :caption: Dúvidas sobre Cadastramento e Recadastramento
+   :caption: DÚVIDAS SOBRE CADASTRAMENTO E RECADASTRAMENTO
 
    _perguntasdafaq/cadastroquempodesecadastrarcomopescadorprofissional
    _perguntasdafaq/comofacoparasolicitaraminhalicencadepescadoroupescadoraprofissional
@@ -77,12 +77,12 @@ _perguntasdafaq/eusourepresentantedeentidadecolaboradorasindicatoscoloniasassoci
 .. raw:: html
 
    </div>
-   <h3>Alteração de Cadastro</h3>
+   <h3>ALTEAÇÃO DE CADASTRO</h3>
    <div>
    
 .. toctree::
    :maxdepth: 1
-   :caption: Alteração de Cadastro
+   :caption: ALTERAÇÃO DE CADASTRO
    
    
 .. raw:: html
