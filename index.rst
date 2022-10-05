@@ -72,8 +72,18 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/soupescadorepossuooutroempregopossoterumalicencadepescadorprofissional
    _perguntasdafaq/outrapessoapodesolicitarmeucadastramentoourecadastramento
    _perguntasdafaq/souobrigadoprecisomefiliaroupediracoloniasindicatoouassociacaoparasolicitarminhacarteirinhadepescadorprofissional
-   _perguntasdafaq/eusourepresentantedeentidadecolaboradorasindicatoscoloniasassociacoesdepescapossosolicitarotreinamentoparaorientarospescadoressobreocadastramentoerecadastramento
+_perguntasdafaq/eusourepresentantedeentidadecolaboradorasindicatoscoloniasassociacoesdepescapossosolicitarotreinamentoparaorientarospescadoressobreocadastramentoerecadastramento
+.. raw:: html
 
+   </div>
+   <h3>Alteração de Cadastro</h3>
+   <div>
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: Alteração de Cadastro
+   
+   
 .. raw:: html
 
    </div>
