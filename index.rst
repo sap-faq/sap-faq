@@ -84,6 +84,8 @@ _perguntasdafaq/eusourepresentantedeentidadecolaboradorasindicatoscoloniasassoci
    :maxdepth: 1
    :caption: ALTERAÇÃO DE CADASTRO
    
+   _perguntasdafaq/comofacoparaalterarcorrigirmeucadastrononovosisrgp40
+   
    
 .. raw:: html
 
