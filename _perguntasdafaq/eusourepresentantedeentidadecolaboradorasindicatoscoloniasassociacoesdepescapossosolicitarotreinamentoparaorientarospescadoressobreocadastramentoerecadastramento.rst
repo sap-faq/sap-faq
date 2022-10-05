@@ -1,5 +1,6 @@
 Eu sou representante de entidade colaboradora (Sindicatos/Colônias/Associações de Pesca) posso solicitar o treinamento para orientar os pescadores sobre o cadastramento e recadastramento.
 ========
+
 SIM.
 Informamos que no modelo atual de capacitação nossa equipe disponibilizará um fórum online por meio de videoconferência, o qual terá como escopo o esclarecimento de dúvidas acerca dos seguintes tópicos:
 
