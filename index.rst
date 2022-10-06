@@ -242,4 +242,6 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    :maxdepth: 1
    :caption: NORMATIVOS
    
+   _perguntasdafaq/quaisosnormativostratamdasregrasgeraisdoregistrogeraldaatividadepesqueiralicencadepescadorprofissional
+   
    
