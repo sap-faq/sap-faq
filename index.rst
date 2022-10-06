@@ -107,5 +107,15 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/meucpfestasuspensocanceladoouirregularnareceitafederalpossomecadastrar
    _perguntasdafaq/comoatualizarosmeusdadosnareceitafederalparaqueaosolicitaromeuregistrodepescadorprofissionalnonovosisrgp40asminhasinformacoesestejamatualizadas
    
+   .. raw:: html
+
+   </div>
+   <h3>SENHA E CADASTRO GOV.BR</h3>
+   <div>
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: SENHA E CADASTRO GOV.BR
+   
    
    
