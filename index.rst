@@ -220,6 +220,14 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/quandoosegurodefesoesuspenso
    _perguntasdafaq/tenhoduvidasouquerofazerumadenunciasobreosegurodefeso
    
+.. raw:: html
+
+   </div>
+   <h3>CANCELAMENTO DE REGISTRO DE PESCADOR PROFISSIONAL</h3>
+   <div>
    
+.. toctree::
+   :maxdepth: 1
+   :caption: CANCELAMENTO DE REGISTRO DE PESCADOR PROFISSIONAL
    
    
