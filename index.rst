@@ -100,5 +100,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/qualdocumentacaonecessariapararegistroinicialdepescadorprofissionalnacategoriaartesanal
    _perguntasdafaq/qualdocumentacaonecessariapararegistroderecadastramentodepescadorprofissionalnacategoriaartesanal
    _perguntasdafaq/qualdocumentacaonecessariapararegistroinicialcomprotocolodepescadorprofissionalnacategoriaartesanal
+   _perguntasdafaq/qualadocumentacaonecessariapararegistroinicialerecadastramentodepescadorprofissionalnacategoriaindustrial
+   
    
    
