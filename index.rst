@@ -103,6 +103,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/qualadocumentacaonecessariapararegistroinicialerecadastramentodepescadorprofissionalnacategoriaindustrial
    _perguntasdafaq/comodigitalizaraminhafotoeincluirnosistemaparaficarcorreta
    _perguntasdafaq/comodevodigitalizareanexarmeusdocumentosparamecadastrarourecadastrarnonovosisrgp40
+   _perguntasdafaq/eusoupescadorprofissionalmasnaoseiescreverenemassinarmeunomecomofaçoparaassinarosdocumentostaiscomoadeclaracaoderesidencia
    
    
    
