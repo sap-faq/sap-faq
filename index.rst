@@ -173,3 +173,5 @@ Perguntas/Dúvidas frequentes SAP/MAPA
 .. toctree::
    :maxdepth: 1
    :caption: PESCADOR SUSPENSO
+   
+   _perguntasdafaq/parapescadoresepescadorasprofissionaissuspensosseraofeitosnovoscadastramentosourecadastramentosdacarteirinha
