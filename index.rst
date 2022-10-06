@@ -212,6 +212,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    :caption: SEGURO DEFESO
    
    _perguntasdafaq/oqueeosegurodefesosdpa(segurodesempregodopescadorprofissional)
+   _perguntasdafaq/quaissaoosrequisitosparasolicitarosegurodefeso
    
    
    
