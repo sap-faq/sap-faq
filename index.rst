@@ -259,3 +259,4 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    :caption: CONTATOS SECRETARIA DE AQUICULTURA E PESCA
    
    _perguntasdafaq/centraldeatendimentoparainformacoessobreoregistrodepescadorprofissional
+   _perguntasdafaq/paraduvidascomrelacaoaoregistrodepescadorprofissionalrgpentreemcontatocomnossoscanaisdeatendimento
