@@ -211,6 +211,8 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    :maxdepth: 1
    :caption: SEGURO DEFESO
    
+   _perguntasdafaq/oqueeosegurodefesosdpa(segurodesempregodopescadorprofissional)
+   
    
    
    
