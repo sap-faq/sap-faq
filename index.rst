@@ -215,6 +215,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/quaissaoosrequisitosparasolicitarosegurodefeso
    _perguntasdafaq/quemnaopodereceberosegurodefeso
    _perguntasdafaq/quemeresponsavelporanalisarepagarosrequerimentosdosegurododefeso
+   _perguntasdafaq/oqueaconteceseopescadorprofissionalprestarinformacoesnaoverdadeirasoureceberobeneficiodeformaindevida
    
    
    
