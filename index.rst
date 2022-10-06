@@ -230,4 +230,6 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    :maxdepth: 1
    :caption: CANCELAMENTO DE REGISTRO DE PESCADOR PROFISSIONAL
    
+   _perguntasdafaq/temcomoreativarregistrosdecancelados
+   
    
