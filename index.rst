@@ -151,3 +151,13 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/precisoirateasuperintendenciadoestadoondemoroparasolicitaraminhalicencadepescadorprofissional
    _perguntasdafaq/quandominhalicençaparaaprovadapossoimprimiremqualquerlugareusarqualquertipodepapel
    _perguntasdafaq/possotrocaroe-mailderecebimento
+   
+.. raw:: html
+
+   </div>
+   <h3>CANCELAMENTO DE CARTEIRINHA DE PESCADOR</h3>
+   <div>
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: CANCELAMENTO DE CARTEIRINHA DE PESCADOR
