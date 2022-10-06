@@ -119,6 +119,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    :caption: SENHA E CADASTRO GOV.BR
    
    _perguntasdafaq/comofazerminhasenhanogovbr
+   _perguntasdafaq/esqueciminhasenhanogovbrcomopossorecuperar
    
    
    
