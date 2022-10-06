@@ -161,3 +161,15 @@ Perguntas/Dúvidas frequentes SAP/MAPA
 .. toctree::
    :maxdepth: 1
    :caption: CANCELAMENTO DE CARTEIRINHA DE PESCADOR
+   
+   _perguntasdafaq/comosolicitoocancelamentodeminhalicencadepesca
+   
+.. raw:: html
+
+   </div>
+   <h3>PESCADOR SUSPENSO</h3>
+   <div>
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: PESCADOR SUSPENSO
