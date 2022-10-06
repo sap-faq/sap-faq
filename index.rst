@@ -147,3 +147,4 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    
    _perguntasdafaq/existealgumataxaparaemissaodacarteiradepescadorepescadoraprofissional
    _perguntasdafaq/ondeacessoolinkdecadastroparasolicitarminhacarteirinhadepescadorprofissional
+   _perguntasdafaq/precisomefiliaroupediracoloniasindicatoouassociacaoparasolicitararminhacarteirinhadepescadorprofissional
