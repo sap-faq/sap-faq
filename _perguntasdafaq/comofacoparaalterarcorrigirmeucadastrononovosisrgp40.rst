@@ -7,6 +7,6 @@ Após digitar seu CPF e senha, você será encaminhado para a mesma página que 
 Em caso de dúvidas acesse vídeo passo a passo para alteração de cadastro, através do link: 
 `Alteração de Cadastro`_
 
-.. _ `link` : https://sistemasweb.agricultura.gov.br/sap-sistainha/consulta.html
-.. _ `clique aqui` : https://www.google.com.br/
-.. _ `Alteração de Cadastro` : https://www.youtube.com/watch?v=DHEgojmySNo&list=PLb0wnTWW2ZNoFunulB7L2mBeWoTfi9gi1&index=7
+.. _`link` : https://sistemasweb.agricultura.gov.br/sap-sistainha/consulta.html
+.. _`clique aqui` : https://www.google.com.br/
+.. _`Alteração de Cadastro` : https://www.youtube.com/watch?v=DHEgojmySNo&list=PLb0wnTWW2ZNoFunulB7L2mBeWoTfi9gi1&index=7
