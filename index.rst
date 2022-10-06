@@ -123,4 +123,12 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/oqueeaprovadevidadogovbr
    
    
+   .. raw:: html
+
+   </div>
+   <h3>RECURSO ADMINISTRATIVO</h3>
+   <div>
    
+.. toctree::
+   :maxdepth: 1
+   :caption: RECURSO ADMINISTRATIVO
