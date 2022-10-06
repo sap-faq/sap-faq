@@ -175,3 +175,4 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    :caption: PESCADOR SUSPENSO
    
    _perguntasdafaq/parapescadoresepescadorasprofissionaissuspensosseraofeitosnovoscadastramentosourecadastramentosdacarteirinha
+   _perguntasdafaq/aentidadecolaboradoranaoentregouasminhasmanutencoeseporissofuisuspensocomopossoregularizar
