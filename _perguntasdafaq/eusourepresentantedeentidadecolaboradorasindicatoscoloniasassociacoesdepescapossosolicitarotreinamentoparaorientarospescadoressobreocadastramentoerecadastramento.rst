@@ -58,6 +58,25 @@ Reafirmamos que tais conhecimentos prévios, são indispensáveis para a realiza
 
 Está sendo feito o agendamento do treinamento de Entidades por meio do e-mail: `pescador.sap@agro.gov.br`_
 
+.. [link1] replace:: link
+.. [link2] replace:: link
+.. [link3] replace:: link
+.. [link4] replace:: link
+.. [link5] replace:: link
+.. [aqui1] replace:: `Clique aqui`
+.. [aqui2] replace:: `Clique aqui`
+.. [aqui3] replace:: `Clique aqui`
+.. [aqui4] replace:: `Clique aqui`
+.. [aqui5] replace:: `Clique aqui`
+.. [aqui6] replace:: `Clique aqui`
+.. [aqui7] replace:: `Clique aqui`
+.. [aqui8] replace:: `Clique aqui`
+.. [aqui9] replace:: `Clique aqui`
+.. [aqui10] replace:: `Clique aqui`
+.. [aqui11] replace:: `Clique aqui`
+.. [aqui12] replace:: `Clique aqui`
+.. [aqui13] replace:: `Clique aqui`
+.. _`pescador.sap@agro.gov.br`: mailto:pescador.sap@agro.gov.br
 .. _link1: https://www.in.gov.br/en/web/dou/-/portaria-sap/mapa-n-265-de-29-de-junho-de-2021-329120345
 .. _link2: https://www.in.gov.br/en/web/dou/-/portaria-sap/mapa-n-270-de-29-de-junho-de-2021-329018765
 .. _link3: https://www.in.gov.br/en/web/dou/-/portaria-sap/mapa-n-1.099-de-29-de-junho-de-2022-411862771
