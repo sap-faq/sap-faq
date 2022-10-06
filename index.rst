@@ -216,6 +216,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/quemnaopodereceberosegurodefeso
    _perguntasdafaq/quemeresponsavelporanalisarepagarosrequerimentosdosegurododefeso
    _perguntasdafaq/oqueaconteceseopescadorprofissionalprestarinformacoesnaoverdadeirasoureceberobeneficiodeformaindevida
+   _perguntasdafaq/qualopapeldoministeriodaagriculturapecuariaeabastecimentomapaquantoaopagamentodosegurodefeso
    
    
    
