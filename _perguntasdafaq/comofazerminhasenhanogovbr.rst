@@ -1,6 +1,5 @@
 Como fazer minha senha no GOV.BR?
 ========
-
 a) Segue link com passo a passo para fazer sua conta do GOV.BR: `clique`_
 
 b) Pescador e pescadora profissional, em caso de dúvidas, acesse vídeo e manual para auxiliar na criação de conta no GOV.BR, através dos links abaixo: 
