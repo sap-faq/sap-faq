@@ -213,6 +213,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    
    _perguntasdafaq/oqueeosegurodefesosdpa(segurodesempregodopescadorprofissional)
    _perguntasdafaq/quaissaoosrequisitosparasolicitarosegurodefeso
+   _perguntasdafaq/quemnaopodereceberosegurodefeso
    
    
    
