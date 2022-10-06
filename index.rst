@@ -249,4 +249,14 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/qualeaalteraçãosobreamanutencaodalicençadepescadorprofissionalsegundoaportariasapmapan1099de29dejunhode2022link
    _perguntasdafaq/qualeaalteracaosobreoprazodereacadastramentodalicencadepescadorprofissionalsegundoaportariasapmapan1100de29dejunhode2022link
    
+.. raw:: html
+
+   </div>
+   <h3>CONTATOS SECRETARIA DE AQUICULTURA E PESCA</h3>
+   <div>
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: CONTATOS SECRETARIA DE AQUICULTURA E PESCA
+   
    
