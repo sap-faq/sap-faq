@@ -244,5 +244,6 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    
    _perguntasdafaq/quaisosnormativostratamdasregrasgeraisdoregistrogeraldaatividadepesqueiralicencadepescadorprofissional
    _perguntasdafaq/quaismudancasocorreramaposaportariassapmapa1099de29dejunhode2022linkeaportariasapmapan1100de30dejunhode2022link
+   _perguntasdafaq/qualeadocumentaçãoprevistaparasolicitacaoderegistrodepescadorestrangeirosegundoportariasapmapan1099de29dejunhode2022link
    
    
