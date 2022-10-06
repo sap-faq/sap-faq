@@ -189,4 +189,14 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    
    _perguntasdafaq/quandoserãofeitasasmanutençõesdalicençadospescadores
    
+.. raw:: html
+
+   </div>
+   <h3>CRUZAMENTO DE DADOS</h3>
+   <div>
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: CRUZAMENTO DE DADOS
+   
    
