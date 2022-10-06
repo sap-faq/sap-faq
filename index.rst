@@ -104,6 +104,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/comodigitalizaraminhafotoeincluirnosistemaparaficarcorreta
    _perguntasdafaq/comodevodigitalizareanexarmeusdocumentosparamecadastrarourecadastrarnonovosisrgp40
    _perguntasdafaq/eusoupescadorprofissionalmasnaoseiescreverenemassinarmeunomecomofaçoparaassinarosdocumentostaiscomoadeclaracaoderesidencia
+   _perguntasdafaq/meucpfestasuspensocanceladoouirregularnareceitafederalpossomecadastrar
    
    
    
