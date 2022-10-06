@@ -232,4 +232,14 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    
    _perguntasdafaq/temcomoreativarregistrosdecancelados
    
+.. raw:: html
+
+   </div>
+   <h3>NORMATIVOS</h3>
+   <div>
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: NORMATIVOS
+   
    
