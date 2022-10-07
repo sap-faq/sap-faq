@@ -44,10 +44,13 @@ Telefones das Superintendências Federais de Agricultura
 
 - SUPERINTENDÊNCIA FEDERAL DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO DA BAHIA - SFA/BA  
 
-Endereço: Largo dos Aflitos s/nº, Edifício Ceres 
-Salvador/BA – CEP: 40.060-030 
-gab-ba@agro.gov.br 
-Tel: (71) 3444-7437
+-Endereço: Largo dos Aflitos s/nº, Edifício Ceres 
+
+-Salvador/BA – CEP: 40.060-030 
+
+-gab-ba@agro.gov.br 
+
+-Tel: (71) 3444-7437
 
 - SUPERINTENDÊNCIA FEDERAL DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO DO CEARÁ  - SFA/CE
 
