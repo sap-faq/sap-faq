@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'Dúvidas Frequentes da SAP'
-copyright = u'2020, TED-SAP/IFG'
+copyright = u'2022, TED-SAP/IFG'
 author = u'TED-SAP/IFG'
 
 # The short X.Y version
