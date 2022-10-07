@@ -19,7 +19,7 @@ jobs:
       uses: chetan/git-restore-mtime-action@master
     - name: Setup locale
       run: |
-        sudo locale-gen en_US.UTF-8
+        sudo locale-gen pt_BR.UTF-8
         sudo update-locale
     - name: Install dependencies
       uses: awalsh128/cache-apt-pkgs-action@v1
