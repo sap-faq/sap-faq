@@ -8,5 +8,5 @@ c) Cópia de contrato de parceria por cota-parte, no caso de pescador e pescador
 
 Obs.: Além destes documentos citados acima, estão os documentos previstos na Portaria SAP/MAPA 265 de 29 de junho de 2021 no seu ART 6º e inciso III `link`_.
 
-.. _ `link` : https://www.in.gov.br/en/web/dou/-/portaria-sap/mapa-n-1.099-de-29-de-junho-de-2022-411862771
-.. _ `link` : https://www.in.gov.br/en/web/dou/-/portaria-sap/mapa-n-265-de-29-de-junho-de-2021-329120345
+.. _`link` : https://www.in.gov.br/en/web/dou/-/portaria-sap/mapa-n-1.099-de-29-de-junho-de-2022-411862771
+.. _`link` : https://www.in.gov.br/en/web/dou/-/portaria-sap/mapa-n-265-de-29-de-junho-de-2021-329120345

@@ -6,4 +6,4 @@ Excepcionalmente para o ano de 2022, os Relatórios de Exercício da Atividade P
 
 Excepcionalmente para o ano de 2023, os Relatórios de Exercício da Atividade Pesqueira - REAP deverão ser preenchidos e enviados no período de 1º de janeiro de 2024 até 30 de junho de 2024.
 
-.. _ `link` : https://www.in.gov.br/en/web/dou/-/portaria-sap/mapa-n-1.099-de-29-de-junho-de-2022-411862771
+.. _`link` : https://www.in.gov.br/en/web/dou/-/portaria-sap/mapa-n-1.099-de-29-de-junho-de-2022-411862771

@@ -23,8 +23,8 @@ Excepcionalmente para o ano de 2022, os Relatórios de Exercício da Atividade P
 
 As manutenções deverão ser realizadas dentro do novo sistema do Registro Geral da Atividade Pesqueira - SISRGP 4.0.
 
-.. _ `https://sistemasweb.agricultura.gov.br/rgp/web/sargp/index.php/atividade_pesca_profissional/atividade/create` : https://sistemasweb.agricultura.gov.br/rgp/web/sargp/index.php/atividade_pesca_profissional/atividade/create
-.. _ `https://www.gov.br/pt-br/servicos/peticionar-documentos-eletronicamente-ao-ministerio-da-agricultura-pecuaria-e-abastecimento` : https://www.gov.br/pt-br/servicos/peticionar-documentos-eletronicamente-ao-ministerio-da-agricultura-pecuaria-e-abastecimento
-.. _ `https://www.gov.br/pt-br/servicos/protocolar-documentos-junto-ao-ministerio-da-agricultura-pecuaria-e-abastecimento-mapa` : https://www.gov.br/pt-br/servicos/protocolar-documentos-junto-ao-ministerio-da-agricultura-pecuaria-e-abastecimento-mapa
-.. _ `https://www.gov.br/pt-br/servicos/peticionar-documentos-eletronicamente-ao-ministerio-da-agricultura-pecuaria-e-abastecimento` : https://www.gov.br/pt-br/servicos/peticionar-documentos-eletronicamente-ao-ministerio-da-agricultura-pecuaria-e-abastecimento
-.. _  `https://www.gov.br/pt-br/servicos/protocolar-documentos-junto-ao-ministerio-da-agricultura-pecuaria-e-abastecimento-mapa` : https://www.gov.br/pt-br/servicos/protocolar-documentos-junto-ao-ministerio-da-agricultura-pecuaria-e-abastecimento-mapa
+.. _`https://sistemasweb.agricultura.gov.br/rgp/web/sargp/index.php/atividade_pesca_profissional/atividade/create` : https://sistemasweb.agricultura.gov.br/rgp/web/sargp/index.php/atividade_pesca_profissional/atividade/create
+.. _`https://www.gov.br/pt-br/servicos/peticionar-documentos-eletronicamente-ao-ministerio-da-agricultura-pecuaria-e-abastecimento` : https://www.gov.br/pt-br/servicos/peticionar-documentos-eletronicamente-ao-ministerio-da-agricultura-pecuaria-e-abastecimento
+.. _`https://www.gov.br/pt-br/servicos/protocolar-documentos-junto-ao-ministerio-da-agricultura-pecuaria-e-abastecimento-mapa` : https://www.gov.br/pt-br/servicos/protocolar-documentos-junto-ao-ministerio-da-agricultura-pecuaria-e-abastecimento-mapa
+.. _`https://www.gov.br/pt-br/servicos/peticionar-documentos-eletronicamente-ao-ministerio-da-agricultura-pecuaria-e-abastecimento` : https://www.gov.br/pt-br/servicos/peticionar-documentos-eletronicamente-ao-ministerio-da-agricultura-pecuaria-e-abastecimento
+.. _`https://www.gov.br/pt-br/servicos/protocolar-documentos-junto-ao-ministerio-da-agricultura-pecuaria-e-abastecimento-mapa` : https://www.gov.br/pt-br/servicos/protocolar-documentos-junto-ao-ministerio-da-agricultura-pecuaria-e-abastecimento-mapa

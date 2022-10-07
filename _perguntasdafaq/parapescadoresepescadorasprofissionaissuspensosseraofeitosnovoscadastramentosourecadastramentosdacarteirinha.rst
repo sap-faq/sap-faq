@@ -4,4 +4,4 @@ Pescadores e Pescadoras na situação de suspensos que estiverem sem comprovante
 
 Pescadores e Pescadoras com carteirinha de pesca na situação suspensa, cujo motivo de suspensão tenha sido a ausência de manutenção, que tenham comprovante de protocolo de entrega do recurso administrativo entregue dentro do prazo estabelecido no ato da suspensão ou em legislação específica, os quais não foram devidamente analisados e regularizados pelas Superintendências Federais de Agricultura, Pecuária e Abastecimento dos Estados, poderão se cadastrar usando este Protocolo, na opção de Registro com Protocolo no SisRGP 4.0 `clique aqui`_.
 
-.. _ `clique aqui` : https://sistemasweb.agricultura.gov.br/sap-sisrgp/
+.. _`clique aqui` : https://sistemasweb.agricultura.gov.br/sap-sisrgp/

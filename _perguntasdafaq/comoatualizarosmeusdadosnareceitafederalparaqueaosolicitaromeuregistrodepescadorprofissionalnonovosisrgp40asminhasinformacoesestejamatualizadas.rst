@@ -4,5 +4,5 @@ Para atualizar ou alterar os seus dados de cadastro junto à Receita Federal uti
 
 Para informações de como atualizar seu endereço, CPF e outras informações cadastrais: `clique aqui`_
 
-.. _ `link` : https://servicos.receita.fazenda.gov.br/servicos/cpf/alterar/default.asp
-.. _ `clique aqui` : https://www.gov.br/pt-br/servicos/atualizar-cadastro-de-pessoas-fisicas
+.. _`link` : https://servicos.receita.fazenda.gov.br/servicos/cpf/alterar/default.asp
+.. _`clique aqui` : https://www.gov.br/pt-br/servicos/atualizar-cadastro-de-pessoas-fisicas
