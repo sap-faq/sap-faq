@@ -8,7 +8,7 @@ b) cópia de documento de identificação oficial com foto;
 
 c) cópia de comprovante de inscrição no Cadastro de Pessoa Física - CPF em situação regular
 
-d) cópia de comprovante de residência [Contas de água, luz, gás ou telefone] ou declaração, conforme modelo do anexo II da Portaria SAP/MAPA nº 265, de 29 de junho de 2021 |link1|_
+d) cópia de comprovante de residência **[Contas de água, luz, gás ou telefone]** ou declaração, conforme modelo do anexo II da Portaria SAP/MAPA nº 265, de 29 de junho de 2021 |link1|_
 
 e) cópia de comprovante de inscrição no Programa de Integração Social - PIS ou Programa de Formação do Patrimônio do Servidor Público - PASEP ou Número de Inscrição do Trabalhador 
 
