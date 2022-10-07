@@ -8,7 +8,7 @@ Exemplos:
   :align: center
   :alt:
 
-  .. image:: _images/image5.png
+.. image:: _images/image5.png
   :align: center
   :alt:
 
@@ -25,10 +25,10 @@ Exemplos:
   :align: center
   :alt:
 
-  .. image:: _images/image10.png
+.. image:: _images/image10.png
   :align: center
   :alt:
 
-  .. image:: _images/image9.png
+.. image:: _images/image9.png
   :align: center
   :alt:
