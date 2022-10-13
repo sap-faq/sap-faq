@@ -18,9 +18,9 @@ e) Portaria SAP/MAPA nº 516, de 31 de dezembro de 2021 |link5|_
 f) SisRGP opções de: Recadastramento, Registro Inicial, Registro com protocolo e REAP.
 
 
-INFORMAÇÕES/MATERIAIS PARA ESTUDO ANTES DO FÓRUM
+**INFORMAÇÕES/MATERIAIS PARA ESTUDO ANTES DO FÓRUM**
 
-- Senha GOV.BR
+**- Senha GOV.BR**
 
 1. Manual: |aqui1|_
 
@@ -30,7 +30,7 @@ INFORMAÇÕES/MATERIAIS PARA ESTUDO ANTES DO FÓRUM
 
 4. Faq de dúvidas do GOV: |aqui4|_
 
-- Sobre a Licença de Pescador/Pescadora Profissional opção de Recadastramento:
+**- Sobre a Licença de Pescador/Pescadora Profissional opção de Recadastramento:**
 
 1. Manual: |aqui5|_
 
@@ -38,7 +38,7 @@ INFORMAÇÕES/MATERIAIS PARA ESTUDO ANTES DO FÓRUM
 
 3. Link do SisRGP 4.0 para efetuar o Cadastro: |aqui7|_
 
-- Sobre a Licença de Pescador/Pescadora Profissional opção de Registro Inicial:
+**- Sobre a Licença de Pescador/Pescadora Profissional opção de Registro Inicial:**
 
 1. Manual: |aqui8|_
 
@@ -46,7 +46,7 @@ INFORMAÇÕES/MATERIAIS PARA ESTUDO ANTES DO FÓRUM
 
 3. Link do SisRGP 4.0 para efetuar o Cadastro: |aqui10|_
 
-- Sobre a Licença de Pescador/Pescadora Profissional opção de Registro com Protocolo:
+**- Sobre a Licença de Pescador/Pescadora Profissional opção de Registro com Protocolo:**
 
 1. Manual: |aqui11|_
 
@@ -59,7 +59,8 @@ Reafirmamos que tais conhecimentos prévios, são indispensáveis para a realiza
 Está sendo feito o agendamento do treinamento de Entidades por meio do e-mail: `pescador.sap@agro.gov.br`_
 
 - **"Sobre a alteração/correção de dados" e "Impressão de segunda via da licença"**
-Vídeo: |aqui14|_
+1. Vídeo **IMPRESSÃO DA CARTEIRA DE PESCADOR**: |aqui14|_
+2. Vídeo **ALTERAÇÃO CADASTRO**: |aqui15|_
 
 
 
@@ -83,6 +84,8 @@ Vídeo: |aqui14|_
 .. |aqui13| replace:: `Clique aqui`
 .. |aqui14| replace:: `Clique aqui`
 .. _aqui14: https://www.youtube.com/watch?v=vW4uqAEzSEI&list=PLb0wnTWW2ZNoFunulB7L2mBeWoTfi9gi1&index=4
+.. |aqui15| replace:: `Clique aqui`
+.. _aqui15: https://www.youtube.com/watch?v=DHEgojmySNo&list=PLb0wnTWW2ZNoFunulB7L2mBeWoTfi9gi1&index=7
 .. _`pescador.sap@agro.gov.br`: mailto:pescador.sap@agro.gov.br
 .. _link1: https://www.in.gov.br/en/web/dou/-/portaria-sap/mapa-n-265-de-29-de-junho-de-2021-329120345
 .. _link2: https://www.in.gov.br/en/web/dou/-/portaria-sap/mapa-n-270-de-29-de-junho-de-2021-329018765
