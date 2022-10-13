@@ -85,7 +85,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    :caption: ALTERAÇÃO DE CADASTRO
    
    _perguntasdafaq/comofacoparaalterarcorrigirmeucadastrononovosisrgp40
-   
+   _perguntasdafaq/possotrocaroe-mailderecebimento
    
 .. raw:: html
 
@@ -150,7 +150,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/precisomefiliaroupediracoloniasindicatoouassociacaoparasolicitararminhacarteirinhadepescadorprofissional
    _perguntasdafaq/precisoirateasuperintendenciadoestadoondemoroparasolicitaraminhalicencadepescadorprofissional
    _perguntasdafaq/quandominhalicençaparaaprovadapossoimprimiremqualquerlugareusarqualquertipodepapel
-   _perguntasdafaq/possotrocaroe-mailderecebimento
+   
    
 .. raw:: html
 
@@ -163,6 +163,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    :caption: CANCELAMENTO DE CARTEIRINHA DE PESCADOR
    
    _perguntasdafaq/comosolicitoocancelamentodeminhalicencadepesca
+   _perguntasdafaq/temcomoreativarregistrosdecancelados
    
 .. raw:: html
 
@@ -220,17 +221,6 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/quandoosegurodefesoesuspenso
    _perguntasdafaq/tenhoduvidasouquerofazerumadenunciasobreosegurodefeso
    
-.. raw:: html
-
-   </div>
-   <h3>CANCELAMENTO DE REGISTRO DE PESCADOR PROFISSIONAL</h3>
-   <div>
-   
-.. toctree::
-   :maxdepth: 1
-   :caption: CANCELAMENTO DE REGISTRO DE PESCADOR PROFISSIONAL
-   
-   _perguntasdafaq/temcomoreativarregistrosdecancelados
    
 .. raw:: html
 
