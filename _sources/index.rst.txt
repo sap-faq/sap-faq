@@ -254,7 +254,9 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/paraduvidascomrelacaoaoregistrodepescadorprofissionalrgpentreemcontatocomnossoscanaisdeatendimento
    _perguntasdafaq/telefonesdassuperintendenciasfederaisdeagricultura
    
-    </div>
+.. raw:: html
+
+   </div>
    <h3>TREINAMENTOS E MATERIAIS</h3>
    <div>
    
@@ -263,3 +265,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    :caption: TREINAMENTOS E MATERIAIS
    
    _perguntasdafaq/treinamentosemateriaisparaestudo
+
+.. raw:: html
+
+   </div>
