@@ -1,6 +1,5 @@
 Como faço para enviar um recurso administrativo? 
 ========
-Prezado (o) Senhor (a),
 
 Para enviar “recurso administrativo” na sua licença de pescador profissional o Senhor (a) deve seguir as orientações abaixo:
 
