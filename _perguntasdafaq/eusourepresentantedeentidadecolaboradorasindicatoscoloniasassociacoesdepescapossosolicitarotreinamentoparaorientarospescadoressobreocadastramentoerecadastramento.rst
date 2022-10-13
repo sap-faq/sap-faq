@@ -58,6 +58,11 @@ Reafirmamos que tais conhecimentos prévios, são indispensáveis para a realiza
 
 Está sendo feito o agendamento do treinamento de Entidades por meio do e-mail: `pescador.sap@agro.gov.br`_
 
+- **"Sobre a alteração/correção de dados" e "Impressão de segunda via da licença"**
+Vídeo: |aqui14|_
+
+
+
 .. |link1| replace:: link
 .. |link2| replace:: link
 .. |link3| replace:: link
@@ -76,6 +81,8 @@ Está sendo feito o agendamento do treinamento de Entidades por meio do e-mail: 
 .. |aqui11| replace:: `Clique aqui`
 .. |aqui12| replace:: `Clique aqui`
 .. |aqui13| replace:: `Clique aqui`
+.. |aqui14| replace:: `Clique aqui`
+.. _aqui14: https://www.youtube.com/watch?v=vW4uqAEzSEI&list=PLb0wnTWW2ZNoFunulB7L2mBeWoTfi9gi1&index=4
 .. _`pescador.sap@agro.gov.br`: mailto:pescador.sap@agro.gov.br
 .. _link1: https://www.in.gov.br/en/web/dou/-/portaria-sap/mapa-n-265-de-29-de-junho-de-2021-329120345
 .. _link2: https://www.in.gov.br/en/web/dou/-/portaria-sap/mapa-n-270-de-29-de-junho-de-2021-329018765
