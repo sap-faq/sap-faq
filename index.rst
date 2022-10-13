@@ -261,3 +261,5 @@ Perguntas/Dúvidas frequentes SAP/MAPA
 .. toctree::
    :maxdepth: 1
    :caption: TREINAMENTOS E MATERIAIS
+   
+   _perguntasdafaq/treinamentosemateriaisparaestudo
