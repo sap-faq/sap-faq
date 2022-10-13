@@ -72,7 +72,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/soupescadorepossuooutroempregopossoterumalicencadepescadorprofissional
    _perguntasdafaq/outrapessoapodesolicitarmeucadastramentoourecadastramento
    _perguntasdafaq/souobrigadoprecisomefiliaroupediracoloniasindicatoouassociacaoparasolicitarminhacarteirinhadepescadorprofissional
-   _perguntasdafaq/eusourepresentantedeentidadecolaboradorasindicatoscoloniasassociacoesdepescapossosolicitarotreinamentoparaorientarospescadoressobreocadastramentoerecadastramento
+   
 
 .. raw:: html
 
@@ -264,7 +264,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    :maxdepth: 1
    :caption: TREINAMENTOS E MATERIAIS
    
-   _perguntasdafaq/treinamentosemateriaisparaestudo
+   _perguntasdafaq/eusourepresentantedeentidadecolaboradorasindicatoscoloniasassociacoesdepescapossosolicitarotreinamentoparaorientarospescadoressobreocadastramentoerecadastramento
 
 .. raw:: html
 
