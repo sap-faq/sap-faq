@@ -253,3 +253,11 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/centraldeatendimentoparainformacoessobreoregistrodepescadorprofissional
    _perguntasdafaq/paraduvidascomrelacaoaoregistrodepescadorprofissionalrgpentreemcontatocomnossoscanaisdeatendimento
    _perguntasdafaq/telefonesdassuperintendenciasfederaisdeagricultura
+   
+    </div>
+   <h3>TREINAMENTOS E MATERIAIS</h3>
+   <div>
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: TREINAMENTOS E MATERIAIS
