@@ -77,7 +77,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
 .. raw:: html
 
    </div>
-   <h3>ALTEAÇÃO DE CADASTRO</h3>
+   <h3>ALTERAÇÃO DE CADASTRO</h3>
    <div>
    
 .. toctree::
