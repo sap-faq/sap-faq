@@ -28,3 +28,12 @@ de edição”, e recomeçar.
 análise e após as verificações você receberá um e-mail com a resposta.
 
 .. _ `https://sistemasweb.agricultura.gov.br/sap-sisrgp/`:https://sistemasweb.agricultura.gov.br/sap-sisrgp/
+
+Obs.: A foto tem que ser 3x4, ou seja, é só do rosto. Ela deve ser nítida e recente. Tem que ter só a foto. A IMAGEM PODE SER ANEXADA NOS FORMATOS: JPG, JPEG ou PNG.
+
+Modelo:
+
+
+Segue vídeo informativo: `https://www.youtube.com/watch?v=W19xVgfH7Is`_
+
+.. _ `https://www.youtube.com/watch?v=W19xVgfH7Is`:https://www.youtube.com/watch?v=W19xVgfH7Is
