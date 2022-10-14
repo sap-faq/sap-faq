@@ -27,7 +27,6 @@ de edição”, e recomeçar.
 9.Se confirmado o envio, a Superintendência Federal de Agricultura do seu Estado, fará a
 análise e após as verificações você receberá um e-mail com a resposta.
 
-.. _ `https://sistemasweb.agricultura.gov.br/sap-sisrgp/`:https://sistemasweb.agricultura.gov.br/sap-sisrgp/
 
 Obs.: A foto tem que ser 3x4, ou seja, é só do rosto. Ela deve ser nítida e recente. Tem que ter só a foto. A IMAGEM PODE SER ANEXADA NOS FORMATOS: JPG, JPEG ou PNG.
 
@@ -40,6 +39,6 @@ Modelo:
 
 Segue vídeo informativo: `https://www.youtube.com/watch?v=W19xVgfH7Is`_
 
-.. _`https://sistemasweb.agricultura.gov.br/sap-sisrgp/`:https://sistemasweb.agricultura.gov.br/sap-sisrgp/
+.. _`https://sistemasweb.agricultura.gov.br/sap-sisrgp/`: https://sistemasweb.agricultura.gov.br/sap-sisrgp/
 
-.. _`https://www.youtube.com/watch?v=W19xVgfH7Is`:https://www.youtube.com/watch?v=W19xVgfH7Is
+.. _`https://www.youtube.com/watch?v=W19xVgfH7Is`: https://www.youtube.com/watch?v=W19xVgfH7Is
