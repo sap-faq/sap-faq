@@ -33,6 +33,10 @@ Obs.: A foto tem que ser 3x4, ou seja, é só do rosto. Ela deve ser nítida e r
 
 Modelo:
 
+.. image:: _images/image3.png
+  :align: center
+  :alt:
+
 
 Segue vídeo informativo: `https://www.youtube.com/watch?v=W19xVgfH7Is`_
 
