@@ -1,6 +1,8 @@
+.. role:: blue
+
 Telefones das Superintendências Federais de Agricultura
 ========
-- SUPERINTENDÊNCIA FEDERAL DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO DO ACRE- SFA/AC
+- :blue:`SUPERINTENDÊNCIA FEDERAL DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO DO ACRE- SFA/AC`
 
 -Endereço: Rodovia AC-40, 793, Segundo Distrito 
 
