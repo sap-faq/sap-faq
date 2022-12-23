@@ -87,6 +87,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/comofacoparaalterarcorrigirmeucadastrononovosisrgp40
    _perguntasdafaq/possotrocaroe-mailderecebimento
    _perguntasdafaq/envieiafotoerradacomofacoparacorrigir
+   _querotrocarotipoderegistroporexemplosoliciteiregistroinicialmaseraregistrocomprotocolocomofaco.rst
    
 .. raw:: html
 
@@ -156,6 +157,18 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    
 .. raw:: html
 
+   </div>
+   <h3>IMPRESSÃO DE LICENÇA</h3>
+   <div>
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: IMPRESSÃO DE LICENÇA
+   
+   _comoimprimirminhalicencadepescadorprofissional
+.. raw:: html
+ 
+ 
    </div>
    <h3>CANCELAMENTO DE CARTEIRINHA DE PESCADOR</h3>
    <div>
