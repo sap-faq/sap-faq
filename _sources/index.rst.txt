@@ -87,7 +87,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/comofacoparaalterarcorrigirmeucadastrononovosisrgp40
    _perguntasdafaq/possotrocaroe-mailderecebimento
    _perguntasdafaq/envieiafotoerradacomofacoparacorrigir
-   _querotrocarotipoderegistroporexemplosoliciteiregistroinicialmaseraregistrocomprotocolocomofaco.rst
+   _perguntasdafaq/querotrocarotipoderegistroporexemplosoliciteiregistroinicialmaseraregistrocomprotocolocomofaco.rst
    
 .. raw:: html
 
