@@ -22,20 +22,20 @@ jobs:
       run: |
         sudo locale-gen pt_BR.UTF-8
         sudo update-locale
-    - name: Install dependencies
-      uses: awalsh128/cache-apt-pkgs-action@v1
-      with:
-        packages: lilypond timidity imagemagick fonts-noto-cjk graphviz plantuml ffmpeg
+#    - name: Install dependencies
+#      uses: awalsh128/cache-apt-pkgs-action@v1
+#      with:
+#        packages: lilypond timidity imagemagick fonts-noto-cjk graphviz plantuml ffmpeg
     - name: Setup python
       uses: actions/setup-python@v4
       with:
         python-version: '3.10'
         cache: 'pip'
-#    - name: Cache
-#      uses: actions/cache@v3
-#      with:
-#         path: /tmp/sphinxnotes-pages
-#         key: ${{ runner.os }}-Sphinx-Github2
+    - name: Cache
+      uses: actions/cache@v3
+      with:
+        path: /tmp/sphinxnotes-pages
+        key: ${{ runner.os }}-Sphinx-Github2
     - name: Build and Commit
       uses: sphinx-notes/pages@v2
       with:
