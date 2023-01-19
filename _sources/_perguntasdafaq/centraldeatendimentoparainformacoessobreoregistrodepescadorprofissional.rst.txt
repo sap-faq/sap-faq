@@ -10,7 +10,7 @@ Central de atendimento para informações sobre o registro de pescador profissio
 
 \(61) 3276-5075
 
-\(61) 9943-3722 [WhatsApp]
+\(61) 61 3276 - 5073 [WhatsApp]
 
 E-mail: pescador.sap@agro.gov.br
 
